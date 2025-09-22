@@ -11,6 +11,7 @@ A data analysis project that explores sales performance, customer behavior, and 
 ## Technologies Used
 - Python 3
 - Pandas for data manipulation
+- NumPy for numerical computing
 - Matplotlib and Seaborn for data visualization
 
 ## Analysis Sections
